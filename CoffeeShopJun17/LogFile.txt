@@ -1,0 +1,227 @@
+
+
+Writing orders from stack 2022-06-24 at 23:11:54 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-24 at 23:12:00 PDT
+
+Writing orders from stack 2022-06-24 at 23:24:43 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-24 at 23:24:45 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-24 at 23:24:52 PDT
+
+Writing orders from stack 2022-06-24 at 23:55:13 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-24 at 23:56:34 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-24 at 23:56:36 PDT
+
+Writing orders from stack 2022-06-25 at 10:23:22 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-25 at 10:23:34 PDT
+
+Writing orders from stack 2022-06-25 at 10:50:04 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-25 at 11:10:22 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-25 at 11:10:24 PDT
+
+Writing orders from stack 2022-06-26 at 23:08:47 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-26 at 23:08:48 PDT
+
+Writing orders from stack 2022-06-26 at 23:09:31 PDT
+
+Writing orders from stack 2022-06-26 at 23:11:00 PDTRECIEPT
+TOTAL COST OF ORDER: 0.0
+
+Writing orders from stack 2022-06-26 at 23:11:02 PDT
+
+Writing orders from stack 2022-06-26 at 23:11:38 PDT
+
+Writing orders from stack 2022-06-26 at 23:12:07 PDT
+
+Writing orders from stack 2022-06-26 at 23:30:28 PDT
+
+Writing orders from stack 2022-06-26 at 23:48:59 PDT
+RECIEPT
+Item 1: Black coffee-Espresso Shot |Cost: 1.2Item 2: Black coffee-Espresso Shot-sugar |Cost: 1.25TOTAL COST OF ORDER: 2.45
+
+Writing orders from stack 2022-06-26 at 23:49:04 PDT
+
+Writing orders from stack 2022-06-26 at 23:50:01 PDT
+RECIEPT
+Item 1: Black coffee-milk |Cost: 1.0
+Item 2: Black coffee-milk-Espresso Shot |Cost: 1.35
+Item 3: Black coffee-milk-Espresso Shot-sugar |Cost: 1.4000000000000001
+TOTAL COST OF ORDER: 3.75
+
+Writing orders from stack 2022-06-26 at 23:50:02 PDT
+
+Writing orders from stack 2022-06-30 at 15:41:55 PDT
+RECIEPT
+Item 1: Black coffee-milk |Cost: 1.0
+Item 2: Black coffee-milk-sugar |Cost: 1.05
+Item 3: Black coffee-milk-sugar-whipped cream |Cost: 1.1500000000000001
+TOTAL COST OF ORDER: 3.2
+
+Writing orders from stack 2022-06-30 at 15:41:57 PDT
+
+Writing orders from stack 2022-06-30 at 16:01:16 PDT
+RECEIPT
+Item 1: Black coffee-milk |Cost: 1.0
+Item 2: Hot Water |Cost: 0.0
+Item 3: Hot Water-Espresso Shot |Cost: 0.35
+Item 4: Hot Water-Espresso Shot-sugar |Cost: 0.39999999999999997
+Item 5: Black coffee-sugar |Cost: 0.9
+Item 6: Black coffee-sugar-whipped cream |Cost: 1.0
+TOTAL COST OF ORDER: 3.65
+
+Writing orders from stack 2022-06-30 at 16:01:17 PDT
+
+Writing orders from stack 2022-06-30 at 16:04:40 PDT
+RECEIPT
+Item 1: Black coffee-milk-sugar-whipped cream |Cost: 1.1500000000000001
+TOTAL COST OF ORDER: 1.1500000000000001
+
+Writing orders from stack 2022-06-30 at 16:04:41 PDT
+
+Writing orders from stack 2022-06-30 at 16:05:27 PDT
+
+Writing orders from stack 2022-06-30 at 16:06:33 PDT
+RECEIPT
+Item 1: Black coffee |Cost: 0.85
+TOTAL COST OF ORDER: 0.85
+
+Writing orders from stack 2022-06-30 at 16:07:04 PDT
+RECEIPT
+Item 1: Black coffee-milk-Espresso Shot-sugar-whipped cream |Cost: 1.5000000000000002
+Item 2: Black coffee-Espresso Shot-Espresso Shot-Espresso Shot |Cost: 1.9
+TOTAL COST OF ORDER: 3.4000000000000004
+
+Writing orders from stack 2022-06-30 at 16:08:35 PDT
+RECEIPT
+Item 1: Black coffee-milk-Espresso Shot-sugar-whipped cream |Cost: 1.5000000000000002
+TOTAL COST OF ORDER: 1.5000000000000002
+
+Writing orders from stack 2022-06-30 at 17:36:49 PDT
+RECEIPT
+Item 1: largeBlack coffee-milk-Espresso Shot |Cost: 1.35
+TOTAL COST OF ORDER: 1.35
+
+Writing orders from stack 2022-06-30 at 17:38:09 PDT
+RECEIPT
+Item 1: mediumBlack coffee-milk-Espresso Shot |Cost: 1.35
+TOTAL COST OF ORDER: 1.35
+
+Writing orders from stack 2022-06-30 at 17:39:42 PDT
+RECEIPT
+Item 1: largeBlack coffee-milk-Espresso Shot |Cost: 1.35
+TOTAL COST OF ORDER: 1.35
+
+Writing orders from stack 2022-06-30 at 17:53:28 PDT
+RECEIPT
+Item 1: Small Black coffee |Cost: 0.35
+TOTAL COST OF ORDER: 0.35
+
+Writing orders from stack 2022-06-30 at 20:02:50 PDT
+RECEIPT
+TOTAL COST OF ORDER: 0.0You earned 0.0 points today!
+
+Writing orders from stack 2022-06-30 at 20:04:19 PDT
+RECEIPT
+Item 1: Large Black coffee |Cost: 1.35
+Points applied saved you 100TOTAL COST OF ORDER: -98.65You earned -9.865 points today!
+
+Writing orders from stack 2022-06-30 at 20:05:55 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot |Cost: 1.85
+Points applied
+TOTAL COST OF ORDER: -98.15
+You earned -9.815000000000001 points today!
+
+Writing orders from stack 2022-06-30 at 20:07:28 PDT
+RECEIPT
+Item 1: Large Black coffee |Cost: 1.35
+Item 2: Small Black coffee-milk-Espresso Shot-sugar |Cost: 0.9000000000000001
+Points applied
+TOTAL COST OF ORDER: 1.25
+You earned 0.125 points today!
+
+Writing orders from stack 2022-06-30 at 20:13:27 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+Item 2: Medium Black coffee-sugar-whipped cream |Cost: 1.0
+Points applied
+TOTAL COST OF ORDER: 1.9000000000000004
+You earned 0.19000000000000003 points today!
+
+Writing orders from stack 2022-06-30 at 20:13:27 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+Item 2: Medium Black coffee-sugar-whipped cream |Cost: 1.0
+Points applied
+TOTAL COST OF ORDER: 1.9000000000000004
+You earned 0.19000000000000003 points today!
+
+Writing orders from stack 2022-06-30 at 20:14:47 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+TOTAL COST OF ORDER: 1.9000000000000001
+You earned 0.19 points today!
+
+Writing orders from stack 2022-06-30 at 20:20:48 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+Points applied
+TOTAL COST OF ORDER: -8.1
+You earned -0.8099999999999999 points today!
+
+Writing orders from stack 2022-06-30 at 20:23:50 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-sugar |Cost: 1.55
+Points applied
+TOTAL COST OF ORDER: -1000.0
+You earned -100.0 points today!
+
+Writing orders from stack 2022-06-30 at 20:24:59 PDT
+RECEIPT
+Item 1: Large Black coffee-Espresso Shot-sugar |Cost: 1.75
+Points applied
+TOTAL COST OF ORDER: 0.0
+You earned 0.0 points today!
+
+Writing orders from stack 2022-06-30 at 20:27:20 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+Points applied
+TOTAL COST OF ORDER: 0.0
+You earned 0.0 points today!
+
+Writing orders from stack 2022-06-30 at 20:27:59 PDT
+RECEIPT
+Item 1: Large Black coffee-milk-Espresso Shot-sugar |Cost: 1.9000000000000001
+TOTAL COST OF ORDER: 1.9000000000000001
+You earned 19.0 points today!
+
+Writing orders from stack 2022-06-30 at 21:40:38 PDT
+RECEIPT
+Item 1: Large Black coffee-milk |Cost: 1.5
+Item 2: Large Black coffee-milk |Cost: 1.5
+Item 3: Large Black coffee-milk |Cost: 1.5
+TOTAL COST OF ORDER: 4.5
+You earned 45.0 points today!
+
+Writing orders from stack 2022-06-30 at 21:43:08 PDT
+RECEIPT
+TOTAL COST OF ORDER: 0.0
+You earned 0.0 points today!
